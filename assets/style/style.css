@@ -345,7 +345,7 @@ body {
 }
 
 .btn_width {
-    width: 280px;
+    max-width: 280px;
     height: 97px;
     font-size: var(--font-lg);
 }
